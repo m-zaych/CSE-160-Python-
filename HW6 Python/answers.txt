@@ -1,0 +1,29 @@
+Name: michael zaychikov
+CSE 160
+Homework 6
+
+For each problem that requires a written answer, write (or copy-and-paste)
+your answers in this file.  When you are done, you should have replaced all
+the ellipses (the three dots) with your answers.
+
+Answer to Problem 6:
+
+when running the code 3 times i got 
+mse larger = 374
+mse smaller = 9624
+96.24% confident it is fradulent
+p = 0.0374
+mse larger = 377
+mse smaller = 9623
+95.53% confident it is fradulent 
+p = 0.0377
+mse larger = 382
+mse smaller = 9618
+96.18% sure it is fradulent
+p = 0.0382
+this shows that the p value is less than 5% each time
+therefore we reject the null hypothesis 
+Collaboration:
+
+...
+
